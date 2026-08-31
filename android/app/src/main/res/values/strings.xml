@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CyberCrawler</string>
+    <string name="title_activity_main">CyberCrawler</string>
+    <string name="package_name">com.yourname.cybercrawler</string>
+    <string name="custom_url_scheme">com.yourname.cybercrawler</string>
+</resources>
